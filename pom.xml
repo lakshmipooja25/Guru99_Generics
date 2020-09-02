@@ -22,7 +22,7 @@
 	     <version>3.0.0-M4</version>
 			<configuration>
 			<suiteXmlFiles>
-				<suiteXmlFile>src/main/Resources/sureFireTestNG.xml</suiteXmlFile>
+				<suiteXmlFile>src/main/resources/testNG.xml</suiteXmlFile>
 			</suiteXmlFiles>
 			</configuration>
 	 	</plugin>

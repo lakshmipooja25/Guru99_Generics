@@ -1,0 +1,4 @@
+org\mycompany\generics\page\HomePage.class
+org\mycompany\generics\page\LoginPage.class
+org\mycompany\generics\page\Page.class
+org\mycompany\generics\page\PageBase.class
