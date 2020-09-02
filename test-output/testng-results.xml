@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-01T15:04:00Z" name="Suite" finished-at="2020-09-01T15:04:49Z" duration-ms="49137">
+    <groups>
+    </groups>
+    <test started-at="2020-09-01T15:04:00Z" name="Test" finished-at="2020-09-01T15:04:49Z" duration-ms="49137">
+      <class name="org.mycompany.TestClasses.LoginPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:org.mycompany.TestClasses.LoginPageTest@1489a6c3]" started-at="2020-09-01T20:34:00Z" name="setUp" finished-at="2020-09-01T20:34:13Z" duration-ms="13276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyGetLoginPageTitle()[pri:1, instance:org.mycompany.TestClasses.LoginPageTest@1489a6c3]" started-at="2020-09-01T20:34:13Z" name="verifyGetLoginPageTitle" finished-at="2020-09-01T20:34:13Z" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetLoginPageTitle -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:org.mycompany.TestClasses.LoginPageTest@1489a6c3]" started-at="2020-09-01T20:34:14Z" name="setUp" finished-at="2020-09-01T20:34:24Z" duration-ms="10671" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyGetDemoPageGuru99Header()[pri:2, instance:org.mycompany.TestClasses.LoginPageTest@1489a6c3]" started-at="2020-09-01T20:34:24Z" name="verifyGetDemoPageGuru99Header" finished-at="2020-09-01T20:34:24Z" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetDemoPageGuru99Header -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:org.mycompany.TestClasses.LoginPageTest@1489a6c3]" started-at="2020-09-01T20:34:24Z" name="setUp" finished-at="2020-09-01T20:34:35Z" duration-ms="11188" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyGetLoginPageDemoSiteHeader()[pri:3, instance:org.mycompany.TestClasses.LoginPageTest@1489a6c3]" started-at="2020-09-01T20:34:35Z" name="VerifyGetLoginPageDemoSiteHeader" finished-at="2020-09-01T20:34:35Z" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyGetLoginPageDemoSiteHeader -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:org.mycompany.TestClasses.LoginPageTest@1489a6c3]" started-at="2020-09-01T20:34:35Z" name="setUp" finished-at="2020-09-01T20:34:46Z" duration-ms="10935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:4, instance:org.mycompany.TestClasses.LoginPageTest@1489a6c3]" started-at="2020-09-01T20:34:46Z" name="testLogin" finished-at="2020-09-01T20:34:49Z" duration-ms="2845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- org.mycompany.TestClasses.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
